@@ -1,4 +1,4 @@
-ssh -i  myPrivateKey.key -p 22 justinklchan@eve-dartmouth.cloudapp.net
+ssh -i  myPrivateKey.key -p 22 justinklchan@eve-dart.cloudapp.net
 
 <empty password> for validating certificate
 password to login to machine: t4Apruka
