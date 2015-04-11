@@ -1,1 +1,5 @@
-vm pass: t4Apruka
+ssh -i  myPrivateKey.key -p 22 justinklchan@eve-dartmouth.cloudapp.net
+
+<empty password> for validating certificate
+password to login to machine: t4Apruka
+eve-dartmouth
